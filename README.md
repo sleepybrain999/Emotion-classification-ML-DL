@@ -1,2 +1,3 @@
 # Emotion-classification-ML-DL
-ML and DL models for emotion classification on the DEAP and DREAMER dataset-MSc dissertation
+A comparative study comparing various ML and DL models, alongside with preprocessing and feature extraction methods for emotion classification on the DEAP and DREAMER dataset.
+Dissertation on Artificial Intelligence MSc
